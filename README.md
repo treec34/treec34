@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm treec34, a CS student aiming to be a software engineer.👋
 
 <!--
 **treec34/treec34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
